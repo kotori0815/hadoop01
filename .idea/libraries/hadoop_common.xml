@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hadoop_common">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_common" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_common" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_common" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_common" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hadoop_yarn">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_yarn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_yarn" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_yarn" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_yarn" recursive="false" type="SOURCES" />
+  </library>
+</component>

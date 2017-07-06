@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hadoop_hdfs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_hdfs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_hdfs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_hdfs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/hadoop_hdfs" recursive="false" type="SOURCES" />
+  </library>
+</component>

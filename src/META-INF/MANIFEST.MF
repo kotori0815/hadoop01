@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: hadoop02
+Main-Class: com.wd.hadoop02.TestWordCount
+
